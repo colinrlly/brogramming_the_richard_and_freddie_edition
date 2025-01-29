@@ -13,5 +13,8 @@ right(240)
 
 forward(100)
 
+hideturtle()
+done()
+
 # mofuggin triangle bitch
 # also let it be known no ai was used just read through the python turtle documentation
