@@ -1,7 +1,7 @@
 # Importing turtle module
 from turtle import *
 color("orange")
-bgcolor("tyedye")
+bgcolor("black")
 # Drawing a line fwd 100 steps
 forward(100)
 # Turning left by 120 degrees
